@@ -1,0 +1,17 @@
+{
+  "name": "playwrighttest",
+  "version": "1.0.0",
+  "description": "Playwright testing",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "playwright",
+    "mcp"
+  ],
+  "author": "cope automation",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
